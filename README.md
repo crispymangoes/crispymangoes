@@ -1,5 +1,5 @@
 # 💫 About Me:
-Smart contract developer with 2 years of experience in DeFi, and NFTs. <br>Working at Sommelier Finance.<br>Building Interoperable Lending Liquidity Management.<br>Learning React, and Go.
+Smart contract developer with 4 years of experience in DeFi, and NFTs. <br>Working at Sommelier Finance.<br>Building Interoperable Lending Liquidity Management.<br>Learning React, and Go.
 
 
 ## 🌐 Socials:
